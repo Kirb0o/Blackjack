@@ -100,13 +100,13 @@ Il gioco traccia:
 
 ✅ Saldo attuale
 
-# Tasti Rapidi
-Tasto	Azione
-H	Hit (Pesca carta)
-S	Stand (Stai)
-D	Double Down (Raddoppia)
-Spazio	Hit (alternativa)
-Doppio click sul saldo	Reset a $1000
+# Controlli del gioco
+# Tasto	Azione	Descrizione
+H	Hit	Pesca una carta
+S	Stand	Stai
+D	Double Down	Raddoppia
+Spazio	Hit (alternativa)	Alternativa per pescare
+Doppio click sul saldo	Reset	Resetta il saldo a $1000
 # Struttura del Progetto
 text
 blackjack-pro/
