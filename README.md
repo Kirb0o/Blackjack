@@ -138,23 +138,36 @@ Modificare i Colori
 I colori sono definiti in CSS tramite variabili:
 
 css
+
 :root {
+
     --table-green: #0a472a;
+    
     --accent-gold: #b08d57;
+    
     --accent-green: #2e8b57;
+    
     --accent-red: #c53030;
+    
     /* ... */
+    
 }
 Aggiungere Chip Personalizzati
+
 Modifica la sezione quick-bet-container in main.js:
 
 javascript
+
 <button class="quick-bet" data-amount="1000">$1000</button>
+
 Disabilitare PocketBase
+
 Commenta le righe relative a PocketBase in main.js:
 
 javascript
+
 // const POCKETBASE_URL = "http://127.0.0.1:8090";
+
 // const COLLECTION = "blackjack_stats";
 
 # Compatibilità
@@ -169,6 +182,7 @@ javascript
 ✅ Mobile Chrome/Safari
 
 # Risoluzione Problemi
+
 Le carte non si vedono
 Assicurati che il file style.css sia nella stessa cartella di index.html
 
