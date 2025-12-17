@@ -110,13 +110,13 @@ Doppio click sul saldo	Reset a $1000
 # Struttura del Progetto
 text
 blackjack-pro/
-├── index.html          # Struttura principale
-├── style.css           # Stili CSS completi
-├── main.js             # Logica di gioco JavaScript
-├── README.md           # Questo file
-└── (opzionale)
-    ├── pocketbase/     # Database PocketBase
-    └── assets/         # Immagini e risorse
+index.html    # Struttura principale
+style.css     # Stili CSS completi
+main.js       # Logica di gioco JavaScript
+ README.md    # Questo file
+(opzionale)
+pocketbase/   # Database PocketBase
+assets/       # Immagini e risorse
 # Personalizzazione
 Modificare i Colori
 I colori sono definiti in CSS tramite variabili:
