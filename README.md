@@ -183,13 +183,16 @@ javascript
 
 # Risoluzione Problemi
 
-Le carte non si vedono
+Le carte non si vedono:
+
 Assicurati che il file style.css sia nella stessa cartella di index.html
 
-Bottoni non funzionanti
+Bottoni non funzionanti:
+
 Controlla la console del browser (F12) per errori JavaScript
 
-PocketBase non raggiungibile
+PocketBase non raggiungibile:
+
 Verifica che PocketBase sia in esecuzione all'indirizzo http://127.0.0.1:8090
 
 # Tecnologie Utilizzate
